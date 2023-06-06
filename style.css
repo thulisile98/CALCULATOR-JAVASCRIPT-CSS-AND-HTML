@@ -17,6 +17,10 @@ body {
 .inputbox{
     width: 475px;
 }
+input.equals{
+
+    width: 145px;
+}
 
 #result {
   width: 100%;
@@ -30,6 +34,7 @@ body {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-gap: 5px;
+  height: 400px;
 }
 
 button {
