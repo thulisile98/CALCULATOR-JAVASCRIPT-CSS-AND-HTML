@@ -1,11 +1,11 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #a10f8b;
+  background-color: #e7e7e7;
 }
 
 .calculator {
   max-width: 500px;
-   max-height: 500px;
+   max-height: 600px;
   margin: 0 auto;
   background-color: #7e0636;
   border: 1px solid #ccc;
